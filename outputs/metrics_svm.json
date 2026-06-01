@@ -1,0 +1,44 @@
+{
+  "accuracy": 0.8225,
+  "precision_macro": 0.8285701165219237,
+  "recall_macro": 0.8225,
+  "f1_macro": 0.8242935178753017,
+  "confusion_matrix": [
+    [
+      55,
+      18,
+      2,
+      1,
+      4
+    ],
+    [
+      9,
+      67,
+      0,
+      0,
+      4
+    ],
+    [
+      5,
+      1,
+      70,
+      0,
+      4
+    ],
+    [
+      0,
+      1,
+      0,
+      77,
+      2
+    ],
+    [
+      14,
+      4,
+      2,
+      0,
+      60
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n      circle     0.6627    0.6875    0.6748        80\n      square     0.7363    0.8375    0.7836        80\n    triangle     0.9459    0.8750    0.9091        80\n       cross     0.9872    0.9625    0.9747        80\n        star     0.8108    0.7500    0.7792        80\n\n    accuracy                         0.8225       400\n   macro avg     0.8286    0.8225    0.8243       400\nweighted avg     0.8286    0.8225    0.8243       400\n"
+}
