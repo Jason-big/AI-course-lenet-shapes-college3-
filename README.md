@@ -141,10 +141,29 @@ LeNet-5 模型在测试集上的结果如下：
 
 ## 7. 参考资料
 
-1. LeCun Y., Bottou L., Bengio Y., Haffner P. Gradient-Based Learning Applied to Document Recognition. Proceedings of the IEEE, 1998.
-2. PyTorch Documentation: https://pytorch.org/docs/stable/index.html
-3. scikit-learn Documentation: https://scikit-learn.org/stable/
-4. GitHub / CSDN / Kaggle 等公开资料与课程论文相关要求。
+## 参考资料
+
+本项目在完成 LeNet-5 几何图形分类实验过程中，主要参考了以下论文、开源资料和工具文档：
+
+[1] LeCun Y, Bottou L, Bengio Y, Haffner P. Gradient-based learning applied to document recognition[J]. Proceedings of the IEEE, 1998, 86(11): 2278-2324.
+[2] Fukushima K. Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position[J]. Biological Cybernetics, 1980, 36(4): 193-202.
+[3] Rumelhart D E, Hinton G E, Williams R J. Learning representations by back-propagating errors[J]. Nature, 1986, 323(6088): 533-536.
+[4] Goodfellow I, Bengio Y, Courville A. Deep Learning[M]. Cambridge: MIT Press, 2016.
+[5] Kingma D P, Ba J. Adam: A method for stochastic optimization[C]//International Conference on Learning Representations. 2015.
+[6] Cortes C, Vapnik V. Support-vector networks[J]. Machine Learning, 1995, 20(3): 273-297.
+[7] Burges C J C. A tutorial on support vector machines for pattern recognition[J]. Data Mining and Knowledge Discovery, 1998, 2(2): 121-167.
+[8] Zhang A, Lipton Z C, Li M, Smola A J. Dive into Deep Learning[EB/OL]. https://d2l.ai/
+[9] PyTorch Documentation. https://pytorch.org/docs/stable/index.html
+[10] Paszke A, Gross S, Massa F, et al. PyTorch: An imperative style, high-performance deep learning library[C]//Advances in Neural Information Processing Systems. 2019, 32.
+[11] scikit-learn Documentation. https://scikit-learn.org/stable/
+[12] Pedregosa F, Varoquaux G, Gramfort A, et al. Scikit-learn: Machine learning in Python[J]. Journal of Machine Learning Research, 2011, 12: 2825-2830.
+[13] Pillow Documentation. https://pillow.readthedocs.io/
+[14] Matplotlib Documentation. https://matplotlib.org/stable/
+[15] Hunter J D. Matplotlib: A 2D graphics environment[J]. Computing in Science & Engineering, 2007, 9(3): 90-95.
+[16] Kaggle Shape32 dataset. https://www.kaggle.com/datasets/zhenx1nxi/shape32
+[17] ChawDoe. LeNet5-MNIST-PyTorch[EB/OL]. https://github.com/ChawDoe/LeNet5-MNIST-PyTorch
+[18] GitHub Docs: Uploading a project to GitHub. https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github
+
 
 ## 8. 说明
 
